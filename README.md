@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is a demonstration of how to set up github repository
+This repository is a demonstration for Implementation of Battle of Neighbourhoods
